@@ -9,7 +9,7 @@ Actualmente me encuentro dando el siguiente paso en mi carrera, buscando aportar
 
 ### 🚀 Experiencia y Proyectos Destacados
 
-- 🏥 **MediTurnos (Innova Lab):** Me desempeñé como **Product Owner** y especialista en **Data Analytics**, liderando el ciclo de desarrollo ágil y garantizando que el producto entregara valor real a los usuarios.
+- 🏥 **MediTurnos:** Me desempeñé como **Product Owner** y especialista en **Data Analytics**, liderando el ciclo de desarrollo ágil y garantizando que el producto entregara valor real a los usuarios.
 - 🏦 **Background Analítico:** Mi experiencia previa como tesorero me aportó una sólida base en gestión financiera, precisión numérica y toma de decisiones críticas; habilidades que hoy aplico directamente al mundo de los datos y el **Business Intelligence**.
 - 🎓 **Formación:** Graduado en Tecnologías Digitales por la Universidad de la Ciudad.
 
